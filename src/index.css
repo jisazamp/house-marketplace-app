@@ -25,6 +25,10 @@ button {
   border: none;
 }
 
+svg {
+  transition: fill 300ms;
+}
+
 .input,
 .passwordInput,
 .emailInput,
